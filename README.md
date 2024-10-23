@@ -1,6 +1,6 @@
-## Hi, I Am Min-TLE 👋
+### Hi, I Am Min-TLE 👋
 
-Why do we call software bugs, bugs?
+*Why do we call software bugs, bugs?
 <!--
 **Min-TLE/Min-TLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Min-TLE&show_icons=true&bg_color=00000000)
+![](https://komarev.com/ghpvc/?username=Min-TLE&color=blue)
+![Min-TLE's github stats](https://github-readme-stats.vercel.app/api/?username=Min-TLE&show_icons=true&hide_border=true&theme=algolia&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Min-TLE&layout=compact&show_icons=true&hide_border=true&theme=algolia&count_private=true)](https://github.com/Min-TLE)
