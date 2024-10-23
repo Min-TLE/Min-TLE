@@ -1,5 +1,6 @@
 ## Hi, I Am Min-TLE 👋
 
+Why do we call software bugs, bugs?
 <!--
 **Min-TLE/Min-TLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
