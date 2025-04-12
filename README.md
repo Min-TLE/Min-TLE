@@ -1,4 +1,4 @@
-### Hi, I Am Min-TLE 👋
+### Hi, I Am Min-TLE 👋.
 
 *Why do we call software bugs, bugs??
 <!--
